@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task-basic-react/static/css/main.fbac5281.css",
+    "main.js": "/task-basic-react/static/js/main.f21c48f5.js",
+    "index.html": "/task-basic-react/index.html",
+    "static/media/delete.svg": "/task-basic-react/static/media/delete.c5650ad8ee72a0d71c94f29f5896ae4e.svg",
+    "static/media/check.svg": "/task-basic-react/static/media/check.f308a4a7b08b3bf4e0361185efda1b8d.svg",
+    "main.fbac5281.css.map": "/task-basic-react/static/css/main.fbac5281.css.map",
+    "main.f21c48f5.js.map": "/task-basic-react/static/js/main.f21c48f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbac5281.css",
+    "static/js/main.f21c48f5.js"
+  ]
+}
